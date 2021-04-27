@@ -1,0 +1,15 @@
+{
+  "name": "Desktop",
+  "version": "0.0.1",
+  "description": "a api application made by my own hands",
+  "main": "index.js",
+  "author": "Henrique Mauler",
+  "license": "GNU",
+  "private": null,
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.12.5"
+  }
+}
