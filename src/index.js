@@ -10,6 +10,6 @@ app.get('/',function(req,res){
 })
 
 
-require('./controllers/authController')(app);
+require('./app/controllers/index')(app);
 
 app.listen(3000);
